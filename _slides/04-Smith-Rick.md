@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Read this if you want to be my Padawan...
 
-![inflatocat](https://octodex.github.com/images/inflatocat.png)
+![inflatocat](https://octodex.github.com/images/octobiwan.jpg)
 {: .center}
