@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "I did not win the lotto"
 ---
 
-Caption here
+Pocket Kingsgit 
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
